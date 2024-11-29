@@ -24,10 +24,11 @@ A Python-based word guessing game implemented in two versions:
 ## 📸 Screenshots  
 *(Add screenshots of the GUI version and command-line gameplay here!)*  
 - Example of the **GUI Version**:  
-  ![GUI Screenshot](assets/GUI_version/)
+  ![GUI Screenshot](![GUI Screenshot](assets/GUI%20version/)
 
 - Example of the **Command-Line Version**:  
-  ![CLI Screenshot](assets/commandline_version/)
+  ![CLI Screenshot](assets/commandline%20version/)
+)
   
 
 ---
